@@ -1,7 +1,7 @@
 {
-  "name": "webimpacto.login",
+  "name": "webimpacto.loginjc",
   "version": "0.2.0",
-  "description": "Login",
+  "description": "Loginjc",
   "scripts": {
     "pretest": "yarn",
     "test": "vtex-test-tools test",

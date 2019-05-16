@@ -1,9 +1,9 @@
 {
   "vendor": "webimpacto",
-  "name": "login",
+  "name": "loginjc",
   "version": "1.0.0",
-  "title": "TopBar",
-  "description": "Componente TopBar",
+  "title": "Loginjc",
+  "description": "Componente Login",
   "defaultLocale": "en-EN",
   "builders": {
     "store": "0.x",
